@@ -3,7 +3,7 @@
 #
 #Date: Spetember 13, 2024
 #This program will use a special case of the Karatsuba Multiplication process, which takes two 4-digit integers supplied by the user.
-#THe computer will us an algorithm which will match up to the actual answer of the two 4-digit numbers.
+#The computer will us an algorithm which will match up to the actual answer of the two 4-digit numbers.
 #GitHub: G-R4m
 
 def yes():
