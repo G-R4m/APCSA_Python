@@ -1,7 +1,7 @@
 #File: ComputeTaxes.py
 #Giancarlo Ramirez
 #
-#September 25 2024
+#September 25, 2024
 #This program is made to compute taxes on any ammount depending on whether the user's marital status
 #GitHub: G-R4m
 
